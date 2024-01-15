@@ -1,10 +1,11 @@
 
 ## 💻 Tecnologias utilizadas
 
-- [![AWS](https://skillicons.dev/icons/aws)](https://aws.amazon.com)
-- [![VSCode](https://skillicons.dev/icons/vscode)](https://code.visualstudio.com)
-- [![Git](https://skillicons.dev/icons/git)](https://git-scm.com)
-- [![Docker](https://skillicons.dev/icons/docker)](https://www.docker.com)
-- [![Python](https://skillicons.dev/icons/python)](https://www.python.org)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org)
+
 
 ***
