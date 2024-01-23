@@ -10,4 +10,4 @@
 
 ***
 
-Caso fique alguma dúvida sobre como realizar a preparação do projeto para o deploy no Elastic Beanstalk, siga [este tutorial](https://github.com/Compass-pb-aws-2023-IFSP-IFGOIANO/sprint-4-pb-aws-ifsp-ifgoiano/tree/main?tab=readme-ov-file#deploy-aws-elastic-beanstalk).
+📄Caso fique alguma dúvida sobre como realizar o deploy no Elastic Beanstalk, siga [este tutorial](https://drive.google.com/file/d/1b6swRwmNV74nRyiGWdtQSGE2M79sTsID/view?usp=sharing).
